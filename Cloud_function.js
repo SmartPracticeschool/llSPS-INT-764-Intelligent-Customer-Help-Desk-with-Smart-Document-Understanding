@@ -1,5 +1,3 @@
-
-
 const assert = require('assert');
 const DiscoveryV1 = require('watson-developer-cloud/discovery/v1');
 
