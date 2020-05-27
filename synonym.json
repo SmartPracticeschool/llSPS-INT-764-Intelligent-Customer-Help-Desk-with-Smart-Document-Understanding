@@ -1,0 +1,14 @@
+{
+   "expansions": [
+     {
+      "input_terms": [
+	 "start",
+	 "turn on",
+	 "use"
+       ],
+      "expanded_terms": [
+	"configure"
+       ]
+     }
+   ]
+ }
